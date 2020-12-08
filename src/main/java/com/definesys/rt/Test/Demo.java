@@ -26,6 +26,8 @@ public class Demo implements Serializable {
     @Column(name = "POST")
     private String post;
 
+    public Demo(){}
+
 
     public long getId() {
         return id;
