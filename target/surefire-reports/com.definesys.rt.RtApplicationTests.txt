@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.definesys.rt.RtApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.82 s - in com.definesys.rt.RtApplicationTests
